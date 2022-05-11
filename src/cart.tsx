@@ -50,7 +50,7 @@ const Cart = () => {
             <Divider/>
             <HStack justifyContent={"space-between"}>
                 <Text color={secondaryTextColor}>Total</Text>
-                <Heading size={'lg'}>$201.70</Heading>
+                <Heading size={'lg'}>$201.80</Heading>
             </HStack>
         </VStack>
 
