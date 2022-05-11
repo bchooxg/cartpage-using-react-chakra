@@ -9,3 +9,6 @@ It's a simple [Next JS](https://nextjs.org/) project, so just do:
 yarn install
 yarn dev
 ```
+
+Link to live page
+https://cartpage-using-react-chakra.vercel.app/
